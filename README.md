@@ -4,3 +4,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of April 
 
 ## Solutions
 1. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/344.%20Reverse%20String.cpp">Reverse String</a>
+2. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/680.%20Valid%20Palindrome%20II.cpp">Valid Palindrome II</a>
