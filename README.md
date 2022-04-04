@@ -6,3 +6,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of April 
 1. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/344.%20Reverse%20String.cpp">Reverse String</a>
 2. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/680.%20Valid%20Palindrome%20II.cpp">Valid Palindrome II</a>
 3. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/31.%20Next%20Permutation.cpp">Next Permutation</a>
+4. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp">Swapping Nodes in a Linked List</a>
