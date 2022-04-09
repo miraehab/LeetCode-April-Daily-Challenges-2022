@@ -11,3 +11,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of April 
 6. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/923.%203Sum%20With%20Multiplicity.cpp">3Sum With Multiplicity</a>
 7. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/1046.%20Last%20Stone%20Weight.cpp">Last Stone Weight</a>
 8. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp">Kth Largest Element in a Stream</a>
+9. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/347.%20Top%20K%20Frequent%20Elements.cpp">Top K Frequent Elements</a>
