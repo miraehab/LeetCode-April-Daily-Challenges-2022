@@ -15,3 +15,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of April 
 10. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/682.%20Baseball%20Game.cpp">Baseball Game</a>
 11. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/1260.%20Shift%202D%20Grid.cpp">Shift 2D Grid</a>
 12. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/289.%20Game%20of%20Life.cpp">Game of Life</a>
+13. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/59.%20Spiral%20Matrix%20II.cpp">Spiral Matrix II</a>
