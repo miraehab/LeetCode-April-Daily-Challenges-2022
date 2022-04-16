@@ -16,3 +16,6 @@ This repository contains my solutions to the LeetCode Daily Challenges of April 
 11. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/1260.%20Shift%202D%20Grid.cpp">Shift 2D Grid</a>
 12. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/289.%20Game%20of%20Life.cpp">Game of Life</a>
 13. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/59.%20Spiral%20Matrix%20II.cpp">Spiral Matrix II</a>
+14. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp">Search in a Binary Search Tree</a>
+15. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/669.%20Trim%20a%20Binary%20Search%20Tree.cpp">Trim a Binary Search Tree</a>
+16. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/538.%20Convert%20BST%20to%20Greater%20Tree.cpp">Convert BST to Greater Tree</a>
