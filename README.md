@@ -20,3 +20,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of April 
 15. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/669.%20Trim%20a%20Binary%20Search%20Tree.cpp">Trim a Binary Search Tree</a>
 16. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/538.%20Convert%20BST%20to%20Greater%20Tree.cpp">Convert BST to Greater Tree</a>
 17. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/897.%20Increasing%20Order%20Search%20Tree.cpp">Increasing Order Search Tree</a>
+18. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/230.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp">Kth Smallest Element in a BST</a>
