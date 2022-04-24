@@ -21,5 +21,8 @@ This repository contains my solutions to the LeetCode Daily Challenges of April 
 16. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/538.%20Convert%20BST%20to%20Greater%20Tree.cpp">Convert BST to Greater Tree</a>
 17. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/897.%20Increasing%20Order%20Search%20Tree.cpp">Increasing Order Search Tree</a>
 18. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/230.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp">Kth Smallest Element in a BST</a>
-19. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/99.%20Recover%20Binary%20Search%20Tree.cpp">99. Recover Binary Search Tree</a>
-20. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/173.%20Binary%20Search%20Tree%20Iterator.cpp">173. Binary Search Tree Iterator</a>
+19. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/99.%20Recover%20Binary%20Search%20Tree.cpp">Recover Binary Search Tree</a>
+20. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/173.%20Binary%20Search%20Tree%20Iterator.cpp">Binary Search Tree Iterator</a>
+21. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/705.%20Design%20HashSet.cpp">Design HashSet</a>
+22. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/706.%20Design%20HashMap.cpp">Design HashMap</a>
+23. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/535.%20Encode%20and%20Decode%20TinyURL.cpp">Encode and Decode TinyURL</a>
