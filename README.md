@@ -26,3 +26,5 @@ This repository contains my solutions to the LeetCode Daily Challenges of April 
 21. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/705.%20Design%20HashSet.cpp">Design HashSet</a>
 22. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/706.%20Design%20HashMap.cpp">Design HashMap</a>
 23. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/535.%20Encode%20and%20Decode%20TinyURL.cpp">Encode and Decode TinyURL</a>
+24. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/1396.%20Design%20Underground%20System.cpp">Design Underground System</a>
+25. <a href="https://github.com/miraehab/LeetCode-April-Daily-Challenges-2022/blob/main/284.%20Peeking%20Iterator.cpp">Peeking Iterator</a>
